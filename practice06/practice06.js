@@ -15,4 +15,4 @@ function fibSequence( number ){
     return output;
 }
 
-fibSequence(9);
+fibSequence(12)
